@@ -1,0 +1,13 @@
+C:\Users\alexc\OneDrive\Documents\C#\School\Taxi Fare\bin\Debug\netcoreapp3.1\Taxi Fare.exe
+C:\Users\alexc\OneDrive\Documents\C#\School\Taxi Fare\bin\Debug\netcoreapp3.1\Taxi Fare.deps.json
+C:\Users\alexc\OneDrive\Documents\C#\School\Taxi Fare\bin\Debug\netcoreapp3.1\Taxi Fare.runtimeconfig.json
+C:\Users\alexc\OneDrive\Documents\C#\School\Taxi Fare\bin\Debug\netcoreapp3.1\Taxi Fare.runtimeconfig.dev.json
+C:\Users\alexc\OneDrive\Documents\C#\School\Taxi Fare\bin\Debug\netcoreapp3.1\Taxi Fare.dll
+C:\Users\alexc\OneDrive\Documents\C#\School\Taxi Fare\bin\Debug\netcoreapp3.1\Taxi Fare.pdb
+C:\Users\alexc\OneDrive\Documents\C#\School\Taxi Fare\obj\Debug\netcoreapp3.1\Taxi Fare.csprojAssemblyReference.cache
+C:\Users\alexc\OneDrive\Documents\C#\School\Taxi Fare\obj\Debug\netcoreapp3.1\Taxi Fare.AssemblyInfoInputs.cache
+C:\Users\alexc\OneDrive\Documents\C#\School\Taxi Fare\obj\Debug\netcoreapp3.1\Taxi Fare.AssemblyInfo.cs
+C:\Users\alexc\OneDrive\Documents\C#\School\Taxi Fare\obj\Debug\netcoreapp3.1\Taxi Fare.csproj.CoreCompileInputs.cache
+C:\Users\alexc\OneDrive\Documents\C#\School\Taxi Fare\obj\Debug\netcoreapp3.1\Taxi Fare.dll
+C:\Users\alexc\OneDrive\Documents\C#\School\Taxi Fare\obj\Debug\netcoreapp3.1\Taxi Fare.pdb
+C:\Users\alexc\OneDrive\Documents\C#\School\Taxi Fare\obj\Debug\netcoreapp3.1\Taxi Fare.genruntimeconfig.cache
